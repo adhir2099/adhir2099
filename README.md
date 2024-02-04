@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on ***secret*...coming soon**
 
-- 🌱 I’m currently learning **Go, Next14, Laravel 10, tailwindcss**
+- 🌱 I’m currently learning **Go, Next14, Laravel 10, Kotlin, Tailwindcss, Svelte**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/adhir-serrano/](check my linkedin :D)
+- 📄 Know about my experiences [check my linkedin 😃](https://www.linkedin.com/in/adhir-serrano/)
 
 - ⚡ Fun fact **PHP is the GOAT🐐**
 
@@ -26,7 +26,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhir2099&show_icons=true&locale=en&layout=compact" alt="adhir2099" /></p><br>
 
-<h3 align="left">Want to Support me? </h3>
+<h3 align="left">Want to Support me☕? </h3>
 <p><a href="https://www.buymeacoffee.com/adhirserrano"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adhirserrano" /></a><a href="https://ko-fi.com/adhirserrano"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="adhirserrano" /></a></p>
 
-<h3 align="left">I'll be bringing more content </h3>
+<h3 align="left">I'll be bringing more content😎</h3>
