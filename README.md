@@ -2,13 +2,13 @@
 
 <h1 align="center">Hi 🦖, I'm Adhir 🦕</h1>
 <h3 align="center">A passionate "Frontend developer" or "Backend developer" depends on the mood</h3>
-<p align="center">During the day I'm Frontend and at night I'm a Backend it really relies on the mood tho, PHP and vanilla JS are my strong suit with mysql, Ajax for SPA, UI/UX with my beloved bootstrap, flexbox or pure CSS for more animations and fashion. Also, I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️, like this new stack BETH (Bun Elysia Turso HTMX).</p>
+<p align="center">During the day I'm Frontend and at night I'm a Backend it really relies on the mood tho, they used to call 'em Fullstack dev, PHP and vanilla JS are my strong suit with mysql, Ajax for SPA, UI/UX with my beloved bootstrap, flexbox or pure CSS for more animations and fashion. NextJS for the hype, Also, I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️, like this new stack BETH (Bun Elysia Turso HTMX).</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adhir2099&label=Profile%20views&color=0e75b6&style=flat" alt="adhir2099" /> </p>
 
 - 🔭 I’m currently working on ***secret*...coming soon**
 
-- 🌱 I’m currently learning **Go, Next14, Laravel 10, Kotlin, Tailwindcss, Svelte**
+- 🌱 I’m currently learning **Go, Next14, Laravel 11, Tailwindcss, Svelte**
 
 - 📄 Know about my experiences [check my linkedin 😃](https://www.linkedin.com/in/adhir-serrano/)
 
@@ -18,6 +18,8 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/adhir-serrano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adhir-serrano" height="30" width="40" /></a>
+<a><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
+<a><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="52" height="40" alt="patreon logo"  /></a>
 </p>
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😄</em>
 
