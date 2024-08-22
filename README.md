@@ -69,9 +69,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="40" alt="denojs logo"  />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhir2099&show_icons=true&locale=en&layout=compact" alt="adhir2099" /></p><br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhir2099&show_icons=true&locale=en&layout=compact" alt="adhir2099" /></p><br>
 
 <h3 align="center">Want to Support me☕? </h3>
 <p align="center"><a href="https://www.buymeacoffee.com/adhirserrano"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adhirserrano" /></a><a href="https://ko-fi.com/adhirserrano"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="adhirserrano" /></a></p>
 
-<h3 align="left">I'll be bringing more content😎</h3>
+<h3 align="left">I'll be bringing more content😎 and updating my repos frequently.</h3>
