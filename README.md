@@ -1,14 +1,15 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">🦖Hi, I'm Adhir 🦕</h1>
-<h3 align="center">A passionate "Frontend developer" or "Backend developer" depends on the mood</h3>
-<p align="center">During the day I'm Frontend and at night I'm a Backend it really relies on the mood tho, or how they used to call 'em 'Fullstack dev', PHP and vanilla JS are my strong suit with mysql, Ajax for SPA, UI/UX with my beloved bootstrap or pure CSS for more animations and fashion. NextJS for the hype, also, I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️, like this new stack BETH (Bun Elysia Turso HTMX).</p>
+<h3 align="center">A passionate "Frontend developer" or "Backend developer" depends on the mood.</h3>
+<p align="center">During the day I'm Frontend and at night I'm a Backend it really relies on the mood tho, or how they used to call 'em 'Fullstack dev', PHP and vanilla JS are my strong suit with mysql, Ajax for SPA, UI/UX with my beloved bootstrap or pure CSS for more animations and fashion. NextJS for the hype.</p>
+<p> I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️.</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adhir2099&label=Profile%20views&color=0e75b6&style=flat" alt="adhir2099" /> </p>
 
 - 🔭 I’m currently working on ***secret*...coming soon**
 
-- 🌱 I’m currently learning **Go, Next14, Laravel 11, Tailwindcss, Svelte, C#**
+- 🌱 I’m currently learning **Go, Next14/15, Laravel 11, Tailwindcss, Svelte, C#, retaking Java**
 
 - 📄 Know about my experiences [check my linkedin 😃](https://www.linkedin.com/in/adhir-serrano/)
 
@@ -67,6 +68,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="40" alt="denojs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="denojs logo"  />
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhir2099&show_icons=true&locale=en&layout=compact" alt="adhir2099" /></p><br>
@@ -74,4 +77,4 @@
 <h3 align="center">Want to Support me☕? </h3>
 <p align="center"><a href="https://www.buymeacoffee.com/adhirserrano"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adhirserrano" /></a><a href="https://ko-fi.com/adhirserrano"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="adhirserrano" /></a></p>
 
-<h3 align="left">I'll be bringing more content😎 and updating my repos frequently.</h3>
+<h3 align="left">I'll be bringing more content 😎 and updating my repos frequently.</h3>
