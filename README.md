@@ -2,13 +2,13 @@
 
 <h1 align="center">🦖Hi, I'm Adhir 🦕</h1>
 <h3 align="center">A passionate "Frontend developer" or "Backend developer" depends on the mood.</h3>
-<p align="center">During the day I'm Frontend and at night I'm a Backend it really relies on the mood tho, or how they used to call 'em 'Fullstack dev', PHP and vanilla JS are my strong suit with mysql, Ajax for SPA, UI/UX with my beloved bootstrap or pure CSS for more animations and fashion. NextJS for the hype. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️.</p>
-
+<p align="center">During the day I'm Frontend and at night I'm a Backend it really relies on the mood tho, or how they used to call 'em 'Fullstack dev', PHP and vanilla JS are my strong suit with mysql, Ajax for SPA, UI/UX with my beloved bootstrap or pure CSS for more animations and fashion. NextJS is a must in my day-to-day, given the hype. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️.</p>
+<p align="center">AI and cybersecurity are on my mind to learn and make use of</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adhir2099&label=Profile%20views&color=0e75b6&style=flat" alt="adhir2099" /> </p>
 
 - 🔭 I’m currently working on ***secret*...coming soon**
 
-- 🌱 I’m currently learning **Go, Next14/15, Laravel 11, Tailwindcss, Svelte, C#, retaking Java**
+- 🌱 I’m currently learning **Go, Next14/15, Laravel 11, Tailwindcss, C#, retaking Java, AI and cybersecurity**
 
 - 📄 Know about my experiences [check my linkedin 😃](https://www.linkedin.com/in/adhir-serrano/)
 
@@ -73,7 +73,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhir2099&show_icons=true&locale=en&layout=compact" alt="adhir2099" /></p><br>
 
+<h3 align="left">I'll be bringing more content 😎 and updating my repos frequently.</h3>
+
 <h3 align="center">Want to Support me☕? </h3>
 <p align="center"><a href="https://www.buymeacoffee.com/adhirserrano"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adhirserrano" /></a><a href="https://ko-fi.com/adhirserrano"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="adhirserrano" /></a></p>
-
-<h3 align="left">I'll be bringing more content 😎 and updating my repos frequently.</h3>
