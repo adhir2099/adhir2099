@@ -6,13 +6,11 @@
 <p align="center">AI and cybersecurity are on my mind to learn and make use of</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adhir2099&label=Profile%20views&color=0e75b6&style=flat" alt="adhir2099" /> </p>
 
-- 🔭 I’m currently working on ***secret*...coming soon**
-
-- 🌱 I’m currently learning **Go, Next14/15, Laravel 11, Tailwindcss, C#, retaking Java, AI and cybersecurity**
+- 🌱 I’m currently learning **Go, Next14/15, Laravel 11, C#, retaking Java, blockchain, AI and cybersecurity**
 
 - 📄 Know about my experiences [check my linkedin 😃](https://www.linkedin.com/in/adhir-serrano/)
 
-- ⚡ Fun fact **PHP is the GOAT🐐**
+- ⚡ Fun fact **PHP IS THE GOAT🐐**
 
 <h3 align="left">Connect with me<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></h3>
 
