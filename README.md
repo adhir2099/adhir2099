@@ -1,12 +1,12 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">🦖Hi, I'm Adhir 🦕</h1>
-<h3 align="center">A passionate "Frontend developer" or "Backend developer" depends on the mood.</h3>
+<h1 align="center">Hi, I'm Adhir <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h3 align="center">A passionate "Frontend developer 🦕" or "Backend developer🦖" depends on the mood.</h3>
 <p align="center">During the day I'm Frontend and at night I'm a Backend it really relies on the mood tho, or how they used to call 'em 'Fullstack dev', PHP and vanilla JS are my strong suit with mysql, Ajax for SPA, UI/UX with my beloved bootstrap or pure CSS for more animations and fashion. NextJS is a must in my day-to-day, given the hype. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️.</p>
 <p align="center">AI and cybersecurity are on my mind to learn and make use of</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adhir2099&label=Profile%20views&color=0e75b6&style=flat" alt="adhir2099" /> </p>
 
-- 🌱 I’m currently learning **Go, Next14/15, Laravel 11, C#, retaking Java, blockchain, AI and cybersecurity**
+- 🌱 I’m currently learning **Go, Nextjs 15, Laravel 11/12, retaking Java, blockchain, AI and cybersecurity**
 
 - 📄 Know about my experiences [check my linkedin 😃](https://www.linkedin.com/in/adhir-serrano/)
 
@@ -37,10 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
