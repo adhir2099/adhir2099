@@ -13,7 +13,7 @@
 - ⚡ Fact **PHP IS THE GOAT🐐**
 
 <h3 align="left">Connect with me</h3>
-<em><b>I love connecting with different people, </b> so if you want to say <b>hi and talk about Dinosaurs, battle bots, tech. I'll be happy to meet you!</b> 😄</em>
+<em><b>I love connecting with different people, </b> so if you want to say <b>hi and talk about Dinosaurs, battle bots, tech. I'll be happy to meet you!</b></em>
 
 <p align="left">
 <a href="https://linkedin.com/in/adhir-serrano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adhir-serrano" height="30" width="40" /></a>
