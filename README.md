@@ -1,6 +1,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi there, I'm Adhir <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h1 align="center">Hi there</h1>
+<h1 align="center">I'm Adhir <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <h3 align="center">A passionate "Frontend developer 🦕" or "Backend developer🦖" depends on the mood.</h3>
 <p align="center">During the day I'm Frontend and at night I'm a Backend it really relies on the mood tho, or how they used to call 'em 'Fullstack dev', PHP and vanilla JS are my strong suit with mysql, Ajax for SPA, UI/UX with my beloved bootstrap or pure CSS for more animations and fashion. NextJS is a must in my day-to-day, given the hype. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️.</p>
 <p align="center">AI and cybersecurity are on my mind to learn and make use of</p>
@@ -15,11 +16,7 @@
 <h3 align="left">Connect with me</h3>
 <em><b>I love connecting with different people, </b> so if you want to say <b>hi and talk about Dinosaurs, battle bots, tech. I'll be happy to meet you!</b></em>
 
-<p align="left">
-<a href="https://linkedin.com/in/adhir-serrano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adhir-serrano" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">This is the cool stuff I know and use:</h3>
+<h3 align="center">This is the cool stuff I know and use:</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -63,7 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="denojs logo"  />
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhir2099&show_icons=true&locale=en&layout=compact" alt="adhir2099" /></p><br>
+<br>
 
 <h3 align="center">I'll be bringing more content 😎 and updating my repos frequently.</h3>
 
