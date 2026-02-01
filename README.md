@@ -2,13 +2,13 @@
 
 <h1 align="center">Hi there</h1>
 <h1 align="center">I'm Adhir <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
-<h3 align="center">A passionate "Frontend developer 🦕" or "Backend developer🦖" depends on the mood.</h3>
-<p align="center">During the day I'm Frontend and at night I'm a Backend it really relies on the mood tho, or how they used to call 'em 'Full stack dev', PHP and vanilla JS are my strong suit with mysql, Ajax for SPA, UI/UX with my beloved bootstrap or pure CSS for more animations and fashion (Tailwind for the hype). NextJS is a must in my day-to-day, given the hype.</p>
+<h3 align="center">A passionate FULL-STACK developer 🦕🦖</h3>
+<p align="center">During the day I'm Frontend and at night I'm a Backend it really relies on the mood tho, or how they used to call 'em 'Full-stack dev', PHP, vanilla JS and TS are my strong suit with mysql, Ajax for SPA, UI/UX with my beloved bootstrap or pure CSS for more animations and fashion (Tailwind for the hype). NextJS is a must in my day-to-day, given the hype.</p>
 <p align="center">AI and cybersecurity are on my mind to learn and make use of</p>
 <p align="center">I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️.</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adhir2099&label=Profile%20views&color=0e75b6&style=flat" alt="adhir2099" /> </p>
 
-- 🌱 I’m currently learning **Go, Astro, Remix, Nest, Laravel 12, retaking Java, blockchain, AI and cybersecurity**
+- 🌱 I’m currently learning **AI, LLM, ML, cybersecurity, Go, Remix, Nest, Laravel 12, blockchain**
 
 - 📄 Know about my experiences [check my linkedin 😃](https://www.linkedin.com/in/adhir-serrano/)
 
@@ -47,6 +47,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
