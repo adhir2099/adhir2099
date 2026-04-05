@@ -3,19 +3,23 @@
 <h1 align="center">Hi there</h1>
 <h1 align="center">I'm Adhir <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <h3 align="center">A passionate FULL-STACK developer 🦕🦖</h3>
-<p align="center">During the day I'm Frontend and at night I'm a Backend it really relies on the mood tho, or how they used to call 'em 'Full-stack dev', PHP, vanilla JS and TS are my strong suit with mysql, Ajax for SPA, UI/UX with my beloved bootstrap or pure CSS for more animations and fashion (Tailwind for the hype). NextJS is a must in my day-to-day, given the hype.</p>
+<p align="center">Frontend when the sun’s up. Backend when it’s not.</p>
+<p>I work across the stack with PHP, JavaScript (Vanilla + TypeScript), and MySQL.
+I build fast, reactive apps with AJAX, design slick UI/UX with raw CSS or Bootstrap, and lean on Next.js when it’s time to move fast and scale.</p>
+<p>Tailwind? Yeah, when it earns its place..</p>
 <p align="center">AI and cybersecurity are on my mind to learn and make use of</p>
 <p align="center">I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️.</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adhir2099&label=Profile%20views&color=0e75b6&style=flat" alt="adhir2099" /> </p>
 
-- 🌱 I’m currently learning **AI, LLM, ML, cybersecurity, Go, Remix, Nest, Laravel 12, blockchain**
+- 🌱 I’m currently learning **AI · LLMs · ML · Cybersecurity · Go · Remix · NestJS · Laravel 12 · Blockchain**
 
-- 📄 Know about my experiences [check my linkedin 😃](https://www.linkedin.com/in/adhir-serrano/)
+- 📄 Know about my experience [check my linkedin 😃](https://www.linkedin.com/in/adhir-serrano/)
 
 - ⚡ Fact **PHP IS THE GOAT🐐**
 
-<h3 align="left">Connect with me</h3>
-<em><b>I love connecting with different people, </b> so if you want to say <b>hi and talk about Dinosaurs, battle bots, tech. I'll be happy to meet you!</b></em>
+<h3 align="left">Hit me up</h3>
+<em><b>Tech, dinosaurs, battle bots, games, I’m in.
+Let’s build something or argue about any topic.</b></em>
 
 <h3 align="center">This is the cool stuff I know and use:</h3>
 
@@ -65,9 +69,9 @@
 
 <br>
 
-<h3 align="center">I'll be bringing more content 😎 and updating my repos frequently.</h3>
+<h3 align="center">More projects coming. More experiments. No slowing down😎</h3>
 
-<h3 align="center">Want to Support me☕? </h3>
+<h3 align="center">If you want to support the grind—appreciated. </h3>
 <p align="center"><a href="https://www.buymeacoffee.com/adhirserrano"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adhirserrano" /></a><a href="https://ko-fi.com/adhirserrano"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="adhirserrano" /></a></p>
 
 <p align="center">
