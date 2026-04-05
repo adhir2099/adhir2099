@@ -72,7 +72,7 @@ Let’s build something or argue about any topic.</b></em>
 <h3 align="center">More projects coming. More experiments. No slowing down😎</h3>
 
 <h3 align="center">If you want to support the grind—appreciated. </h3>
-<p align="center"><a href="https://www.buymeacoffee.com/adhirserrano"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adhirserrano" /></a><a href="https://ko-fi.com/adhirserrano"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="adhirserrano" /></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/adhirserrano"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adhirserrano" /></a><a href="https://ko-fi.com/adhirserrano"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="adhirserrano" /></a><a href="https://throne.com/adhir2099"> <img align="center" src="https://blog.throne.com/content/images/2023/06/Throne_Logo_Gradient_Light.png" height="50" width="210" alt="adhirserrano" /></a></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
