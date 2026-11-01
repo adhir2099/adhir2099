@@ -1,4 +1,6 @@
-# Hi, I'm Adhir 🦖
+<img align="right" src="https://komarev.com/ghpvc/?username=adhir2099&label=Profile%20views&color=0e75b6&style=flat" height="20" alt="Profile views">
+
+# Hi, I'm Adhir&nbsp;🦖
 
 **Full-stack web developer. Getting started in game development.**
 
@@ -10,22 +12,20 @@ I build web interfaces with JavaScript, TypeScript, React, and Next.js, and back
 
 I also work with Go, Python, and Laravel, and I'm expanding my knowledge of AI and cybersecurity.
 
-## My web toolkit
+## My toolkit
 
 ### Backend
-
-PHP · Node.js · Laravel · MySQL
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL">
 </p>
 
 ### Frontend
-
-HTML · CSS · JavaScript · TypeScript · React · Next.js
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML">&nbsp;&nbsp;
