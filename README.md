@@ -1,53 +1,57 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+# Hi, I'm Adhir 🦖
 
-<h1 align="center">Hi there</h1>
-<h1 align="center">I'm Adhir <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
-<h3 align="center">Full-stack developer 🦕🦖</h3>
-<p align="center">Frontend when the sun’s up. Backend when it’s not.</p>
-<p>I build web interfaces and APIs with vanilla JavaScript, AJAX, React, and Next.js. I enjoy writing CSS and connecting interfaces to the data behind them. PHP is still my favorite. 🐐</p>
-<p align="center">I'm also working with Go, Python, and Laravel, and exploring AI and cybersecurity.</p>
-<p align="center">I'm getting started with game development in <b>Godot</b> and learning <b>Blender</b> along the way.</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adhir2099&label=Profile%20views&color=0e75b6&style=flat" alt="adhir2099" /> </p>
+**Full-stack web developer. Getting started in game development.**
+
+Frontend when the sun's up. Backend when it's not.
+
+<img src="assets/dino-workshop.png" width="100%" alt="Pixel art of a dinosaur coding in a jungle workshop, with a game controller and a small battle bot nearby.">
+
+I build web interfaces with JavaScript, TypeScript, React, and Next.js, and backends with **PHP and Node.js**. MySQL handles the data. PHP is still my favorite. 🐐
+
+I also work with Go, Python, and Laravel, and I'm expanding my knowledge of AI and cybersecurity.
+
+## My web toolkit
+
+### Backend
+
+PHP · Node.js · Laravel · MySQL
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL">
+</p>
+
+### Frontend
+
+HTML · CSS · JavaScript · TypeScript · React · Next.js
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js">
+</p>
+
+## Learning to make games
+
+Godot for game development, Blender for creating assets. I'm at the beginning, experimenting and learning as I go.
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" height="40" alt="Godot">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40" alt="Blender">
+</p>
+
+## From my web projects
+
+- [Play my 2048](https://adhir2099.github.io/2048/), built with JavaScript, PixiJS, and GSAP. [Source code](https://github.com/adhir2099/2048).
+- [Explore PokeApp](https://poke-dex-app-two.vercel.app/), a Pokédex built with Next.js and TypeScript. [Source code](https://github.com/adhir2099/PokeApp).
 
 ## Beyond the code
 
-<em><b>Dinosaurs, battle bots, and games are always good conversation starters. Happy to talk tech or compare notes on a project.</b></em>
+Dinosaurs, battle bots, and games are always good conversation starters.
 
-## Tools I use
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-</p>
-
-<br>
-
-<h3 align="center">More projects coming. More experiments. No slowing down. 😎</h3>
-[Connect with me on LinkedIn](https://www.linkedin.com/in/adhir-serrano/)
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+[Talk tech with me on LinkedIn](https://www.linkedin.com/in/adhir-serrano/) · [Browse my repositories](https://github.com/adhir2099?tab=repositories)
